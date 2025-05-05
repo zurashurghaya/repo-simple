@@ -1,0 +1,37 @@
+{
+  "elements" : {
+    "TESTE0" : {
+      "processorGroup" : "TEST"
+    }
+  },
+  "defaultProcessorGroup" : "CLENBL",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "NO PROCESSORS ASSIGNED"
+  }, {
+    "name" : "BROKEN",
+    "description" : "INTENTIONALLY BROKEN PROCESSOR"
+  }, {
+    "name" : "CAWDEMV",
+    "description" : "COBOL/LE compile"
+  }, {
+    "name" : "CIINBL",
+    "description" : "COBOL II COMPILE AND LINK, LISTING IS STORED"
+  }, {
+    "name" : "CLENBL",
+    "description" : "COBOL/LE COMPILE AND LINK, LISTING IS STORED"
+  }, {
+    "name" : "COBCICS",
+    "description" : "COBOL FOR CICS: COMPILE, LINK, LISTING TO PROTSYM"
+  }, {
+    "name" : "DB2DEMO",
+    "description" : "db2demo processor group"
+  }, {
+    "name" : "LEMC2",
+    "description" : "Assemble MARBLES W/CICS cmd process"
+  }, {
+    "name" : "MARBPROC",
+    "description" : "Assemble CTs W/CICS cmd process"
+  } ],
+  "fileExtension" : ""
+}

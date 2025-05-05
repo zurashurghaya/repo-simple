@@ -1,0 +1,15 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "*NOPROC*",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "SANDBOX PROCESSOR GROUP"
+  }, {
+    "name" : "DEPLOY4T",
+    "description" : "CREATE A DEPLOY FOR TEST SANDBOX"
+  }, {
+    "name" : "SANDBOX",
+    "description" : "SANDBOX PROCESSOR GROUP"
+  } ],
+  "fileExtension" : ""
+}
