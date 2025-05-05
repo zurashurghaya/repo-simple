@@ -5,7 +5,7 @@
     "context" : "zurashurghaya",
     "repository" : "repo-simple",
     "cloneUrl" : "https://github.com/zurashurghaya/repo-simple.git",
-    "branch" : null
+    "branch" : "toti2"
   },
   "endevor" : {
     "connection" : "connection-mock",
@@ -25,6 +25,27 @@
         "filter" : {
           "elements" : [ ],
           "types" : [ "COBOL", "COPY" ]
+        }
+      } ],
+      "filter" : null
+    } ],
+    "mappingMode" : "WORK_ENV_ONLY",
+    "readOnly" : false,
+    "entryStage" : true,
+    "synchronizeListings" : false
+  }, {
+    "name" : "toti2",
+    "environment" : "DEV",
+    "stageNumber" : 1,
+    "systems" : [ {
+      "name" : "ALC",
+      "alias" : null,
+      "subsystems" : [ {
+        "name" : "ALC",
+        "alias" : null,
+        "filter" : {
+          "elements" : [ ],
+          "types" : [ ]
         }
       } ],
       "filter" : null
