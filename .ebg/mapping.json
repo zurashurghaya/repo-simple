@@ -5,7 +5,7 @@
     "context" : "zurashurghaya",
     "repository" : "repo-simple",
     "cloneUrl" : "https://github.com/zurashurghaya/repo-simple.git",
-    "branch" : null
+    "branch" : "toti2"
   },
   "endevor" : {
     "connection" : "connection-mock",

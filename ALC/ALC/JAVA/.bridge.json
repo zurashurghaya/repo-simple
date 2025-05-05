@@ -1,0 +1,16 @@
+{
+  "elements" : {
+    "TESTE2" : {
+      "processorGroup" : "TEST"
+    }
+  },
+  "defaultProcessorGroup" : "*NOPROC*",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "java elements"
+  }, {
+    "name" : "TESTSYMB",
+    "description" : "test symbolics"
+  } ],
+  "fileExtension" : "java"
+}
