@@ -1,5 +1,9 @@
 {
-  "elements" : { },
+  "elements" : {
+    "TESTE1" : {
+      "processorGroup" : "TEST"
+    }
+  },
   "defaultProcessorGroup" : "*NOPROC*",
   "definedProcessorGroups" : [ {
     "name" : "*NOPROC*",
